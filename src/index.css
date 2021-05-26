@@ -16,6 +16,7 @@
 }
 .navbar h1 {
   color: blue; 
+ 
 }
 .navbar .links {
   margin-left: auto;
@@ -32,4 +33,7 @@
   max-width: 600px;
   margin: 40px auto;
   padding: 20px;
+  background-color: slategrey;
+  border-radius: 20px;
 }
+
